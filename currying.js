@@ -1,10 +1,10 @@
 // Currying is a functional programming technique where a function that takes multiple arguments is transformed into a sequence of functions that each take one argument (or a subset of arguments).
 
 // Use case	                       |     Benefit
-// Partial application	               |     Preconfigure functions easily
-// React event handlers	               |     Cleaner, reusable callbacks
-// Function composition	               |     Declarative, pipeline-like transformations
-// API / Config functions	       |     Encapsulate shared parameters cleanly
+// Partial application	           |     Preconfigure functions easily
+// React event handlers	           |     Cleaner, reusable callbacks
+// Function composition	           |     Declarative, pipeline-like transformations
+// API / Config functions	         |     Encapsulate shared parameters cleanly
 
 // https://bigfrontend.dev/problem/implement-curry
 
